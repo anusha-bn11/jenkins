@@ -6,4 +6,3 @@ public class HelloWorld {
     System.out.println("Hello First");
   }
 }
-© 2022 GitHub
